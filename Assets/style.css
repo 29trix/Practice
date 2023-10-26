@@ -1,0 +1,32 @@
+body{
+  margin: 0;
+}
+h1{
+  margin: 0;
+}
+p{
+  margin: 0;
+}
+.top-container{
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+.middle-container{
+  background-color: blue;
+  margin-left: 0;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top:100px;
+  left: 100px;
+}
+.bottom-container{
+  background-color: gold;
+  height: 100px;
+  width: 100px;
+  margin: 0;
+}
