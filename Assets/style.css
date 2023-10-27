@@ -2,7 +2,7 @@ body{
   margin: 0;
   width: 800px;
   height: 800px;
-  background-color: black;
+  background-color: #050002;
   box-sizing: border-box;
 }
 h1{
@@ -12,7 +12,7 @@ p{
   margin: 0;
 }
 .box1{
-  background-color: #a7a7a7;
+  background-color: #5687a9;
   height: 400px;
   width: 400px;
 }
@@ -48,7 +48,7 @@ p{
   top: 300px;
 }
 .box2{
-  background-color: #a7a7a7;
+  background-color: #5687a9;
   height: 400px;
   width: 400px;
   position: absolute;
