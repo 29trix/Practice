@@ -11,6 +11,10 @@ img{
   border-radius: 50%;
   margin: 0 auto;
 }
+.middle-container{
+  width: 200px;
+  height: 200px
+}
 .drive{
   width: 50%;
   margin: 100px auto;
