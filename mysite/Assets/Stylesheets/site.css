@@ -1,6 +1,12 @@
 body{
-  margin: 0;
+  width: 100% ;
+  text-align: justify;
+}
+.main-container{
+  width: 60%;
+  margin: auto;
 }
 img{
   border-radius: 50%;
+  margin: 0 auto;
 }
