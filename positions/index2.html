@@ -5,10 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Floats</title>
   <style>
-    header, 
-    section,
-    aside,
-    footer{
+    .code{
       background: #2db34a;
       border-radius: 6px;
       color: #fff;
@@ -16,16 +13,42 @@
       font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
       padding: 24px 15px;
       text-align: center;
-      margin: 15px;
+      margin: 10px;
+    }
+    
+    section{
+      float: left;
+      width: 59%
+    }
+    aside{
+      float: right;
+      width: 20%;
+    }
+    footer{
+      clear: both;
+      margin-bottom: 0;
     }
   </style>
 </head>
 <body>
-  <header>header</header>
-  <section>section</section>
-  <aside>aside</aside>
-
-  <footer>footer</footer>
+  <header class="code">
+    header
+  </header>
+  
+  <section class="code">
+    section
+  </section>
+  
+  <aside class="code">
+    aside
+  </aside>
+  
+  <footer class="code">
+    footer
+  </footer>
+  
+  
+  
   
 </body>
 </html>
