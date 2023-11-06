@@ -2,6 +2,22 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 33.7rem;
+  height: 200px;
   margin: 0;
+}
+.calculator{
+  border: 2px solid #333;
+  border-radius: 5px;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+table{
+  width: 100%;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+td{
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ccc;
 }
