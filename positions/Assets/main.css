@@ -84,6 +84,7 @@ h2{
 .boxes .container{
   display: flex;
   justify-content: space-between;
+  margin-bottom: 80px;
 }
 .box{
   flex: 1;
